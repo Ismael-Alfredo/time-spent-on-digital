@@ -1,0 +1,14 @@
+# Arquivos de ambiente
+.env
+.venv/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+__pycache__/
+*.pyc
+
+# Arquivos de build
+dist/
+build/
